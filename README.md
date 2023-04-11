@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos Frederico Silva de Oliveira
 Frontend Jr. web developer
 --------------------------
 
-I've been learning to code for a while now and I've reached a platoo as to how much I could grow as person and as a problem solver for the last 10 years working as a graphic designer, so I'm looking forward to dive in this new world.
+I've been learning to code for a while now and I've reached a platoo as to how much I could grow as a person and as a problem solver. For the last 10 years I've worked as a graphic designer, so I'm looking forward to dive in this new world.
 
 * 🌍  I'm based in Rio Branco, Acre, Brasil
 * ✉️  You can contact me at [ofredericovsk@gmail.com](mailto:ofredericovsk@gmail.com)
