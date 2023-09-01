@@ -8,7 +8,7 @@ I've been learning to code for a while now and I've reached a platoo as to how m
 
 * 🌍  I'm based in Rio Branco, Acre, Brasil
 * ✉️  You can contact me at [ofredericovsk@gmail.com](mailto:ofredericovsk@gmail.com)
-* 🧠  I'm learning Javascript.
+* 🧠  I'm mastering JS.
 * 🤝  I'm open to collaborating on any projects I can learn from so I can keep growing as dev, so bring me in I'll be glad to help.
 
 ### Skills
